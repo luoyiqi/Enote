@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >用户</item>
+        <item >所有笔记</item>
+        <item >个人专题</item>
+        <item >多人专题</item>
+        <item >笔记回收站</item>
+        <item >消息中心</item>
+       	<item >了解e划通</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_user</item>
+        <item>@drawable/ic_all_notes</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_recycle_bin</item>
+        <item>@drawable/ic_message</item>
+        <item>@drawable/ic_about</item>
+    </array>
+    
+    <array name="content_more_icons">
+        <item>@drawable/ic_user</item>
+        <item>@drawable/ic_all_notes</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_people</item>
+    </array>
+    
+    <string-array name="content_more_items">
+        <item >图片</item>
+        <item >涂鸦</item>
+        <item >附件</item>
+        <item >拍照</item>
+    </string-array>
+    
+</resources>

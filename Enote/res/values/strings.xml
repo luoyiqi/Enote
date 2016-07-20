@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Enote</string>
+    <string name="icon">icon</string>
+    <string name="settings">设置</string>
+    <string name="synchronization">同步</string>
+    <string name="action_search">搜索</string>
+    <string name="action_add">添加</string>
+    <string name="finish">完成</string>
+    
+    <string name="add_more">添加</string>
+    <string name="add_audio">录音</string>
+    <string name="add_camera">拍照</string>
+    <string name="add_file">文件</string>
+    <string name="add_audio_to_text">语音转文本</string>
+    <string name="add_photo">图片</string>
+    <string name="add_paint">手写</string>
+    <string name="add_scan">扫描</string>
+    
+    <string name="open_file_failed">附件添加失败</string>
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>

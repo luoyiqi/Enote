@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+ <item
+        android:id="@+id/action_plus"
+        android:actionProviderClass="com.las.enote.MyActionProvider"
+        android:icon="@drawable/add_more"
+        android:showAsAction="ifRoom"
+        android:title="@string/add_more"/> 
+         
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="110"
+        android:showAsAction="never"
+        android:title="@string/settings"/>
+    
+    <item
+        android:id="@+id/synchronization"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/synchronization"/>
+ 
+</menu>
